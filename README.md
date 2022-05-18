@@ -25,7 +25,6 @@ conda install --file requirements.tx
 ## How to run
 Just run the _main_1_1_v2.py_ file
 
-
 ## How it works
 In this repository there is the code to run the paper "_RAIM: Reinforced Autonomous Intersection Management - AIM based on MADRL_"
 In this paper, I 
