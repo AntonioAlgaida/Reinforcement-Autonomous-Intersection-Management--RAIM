@@ -29,7 +29,16 @@ Just run the _main_1_1_v2.py_ file
 
 ## How it works
 In this repository there is the code to run the paper "_RAIM: Reinforced Autonomous Intersection Management - AIM based on MADRL_"
-In this paper, I 
+
+In this paper, I make use of Deep Reinforcement Learning to train a new Autonomous Intersection Management system.
+
+### What is an Autonomous Intersection Management (AIM) systems
+AIM is a decentralyzed system located virtually in the mobile communication system that control connected autonomous vehicles at urban intersections.
+
+### What is Reinforced AIM
+Reinforced AIM, or RAIM, is an advanced technique that makes use Deep Reinforcement Learning to determine for each vehicle within an intersection or in the approaches, the speed at which it must travel during the next time interval in order to avoid collisions and minimize travel time. 
+
+RAIM makes use of Twin Delayed Deep Deterministic Policy Gradients (TD3), PER (Prioritized Experience Replay), and Curriculum-based learning through Self-Play.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
