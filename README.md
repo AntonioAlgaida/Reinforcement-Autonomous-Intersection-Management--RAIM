@@ -8,7 +8,6 @@ Conference: Real-World RL Workshop. 34th NeurIPS 2020 Conf
 [Link to paper](https://www.researchgate.net/publication/357957238_RAIM_Reinforced_Autonomous_Intersection_Management_-_AIM_based_on_MADRL)
 
 ## Installation
-
 Take a look to requeriments.txt
 
 To install a requeriments.txt file:
@@ -24,8 +23,13 @@ conda install --file requirements.tx
 ```
 
 ## How to run
+Just run the _main_1_1_v2.py_ file
 
-Just run the main_1_1_v2.py file
+
+## How it works
+In this repository there is the code to run the paper "_RAIM: Reinforced Autonomous Intersection Management - AIM based on MADRL_"
+In this paper, I 
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
