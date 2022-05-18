@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2020-06-16 10:27:26.893801 by randomTrips.py UNKNOWN
+  options: -n sumodata/net_1_1.xml -o sumodata/peds_cycl_routes_1_1.xml <doubleminus>persontrips <doubleminus>trip-attributes modes="bicycle" -e 100 <doubleminus>verbose True
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <person id="0" depart="0.00">
+        <personTrip from="right0A0" to="A0bottom0" modes="bicycle"/>
+    </person>
+</routes>
