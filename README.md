@@ -7,6 +7,8 @@ Conference: Real-World RL Workshop. 34th NeurIPS 2020 Conf
 
 [Link to paper](https://www.researchgate.net/publication/357957238_RAIM_Reinforced_Autonomous_Intersection_Management_-_AIM_based_on_MADRL)
 
+[Virtual Presentation](https://www.youtube.com/watch?v=hvf3lwQG8lI)
+
 ## Installation
 Take a look to requeriments.txt
 
