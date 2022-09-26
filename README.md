@@ -27,6 +27,16 @@ conda install --file requirements.tx
 ## How to run
 Just run the _main_1_1_v2.py_ file
 
+## How to change control algorithms
+By default is used the fixed traffic light algorithm with a green time defined by: `greentime=(120-10)//2`
+
+If you want to change by other traditional traffic lights algorithms, you need to instantiate in the previous lane.
+Like: `algorithm = REDVDAlgorithm(...)`
+Changing `Fixed` by `algorithm`
+
+If you want to use the proposed algorithm, you need to instantiate the module located in `TD3PER`
+`algorithm = TD3Agent.Agent(...)`
+
 ## How it works
 In this repository there is the code to run the paper "_RAIM: Reinforced Autonomous Intersection Management - AIM based on MADRL_"
 
